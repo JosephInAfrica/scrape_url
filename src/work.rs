@@ -1,7 +1,7 @@
 use std::fs;
 
-pub fn do_work() -> Result<(), Box<dyn std::error::Error>> {
-    let url = "http://www.rust-lang.org";
+pub fn do_work(url: &str) -> Result<(), Box<dyn std::error::Error>> {
+    // let url = "http://www.rust-lang.org";
     let output = "rust.md";
     println!("fetching url {}", url);
 
@@ -12,4 +12,14 @@ pub fn do_work() -> Result<(), Box<dyn std::error::Error>> {
 
     println!("converted saved to {}", output);
     Ok(())
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+    #[test]
+    fn it_works() {
+        let url = "http://www.rust-lang.org";
+        assert_eq!(do_work(url), Result::Ok(()))
+    }
 }

@@ -1,183 +1,29 @@
-  Rust Programming Language
+百度一下，你就知道body{margin:0;padding:0;text-align:center;background:#fff;height:100%}html{overflow-y:auto;color:#000;overflow:-moz-scrollbars;height:100%}body,input{font-size:12px;font-family:"PingFang SC",Arial,"Microsoft YaHei",sans-serif}a{text-decoration:none}a:hover{text-decoration:underline}img{border:0;-ms-interpolation-mode:bicubic}input{font-size:100%;border:0}body,form{position:relative;z-index:0}#wrapper{height:100%}#head\_wrapper.s-ps-islite{padding-bottom:370px}#head\_wrapper.s-ps-islite .s\_form{position:relative;z-index:1}#head\_wrapper.s-ps-islite .fm{position:absolute;bottom:0}#head\_wrapper.s-ps-islite .s-p-top{position:absolute;bottom:40px;width:100%;height:181px}#head\_wrapper.s-ps-islite #s\_lg\_img{position:static;margin:33px auto 0 auto;left:50%}#form{z-index:1}.s\_form\_wrapper{height:100%}#lh{margin:16px 0 5px;word-spacing:3px}.c-font-normal{font:13px/23px Arial,sans-serif}.c-color-t{color:#222}.c-btn,.c-btn:visited{color:#333!important}.c-btn{display:inline-block;overflow:hidden;font-family:inherit;font-weight:400;text-align:center;vertical-align:middle;outline:0;border:0;height:30px;width:80px;line-height:30px;font-size:13px;border-radius:6px;padding:0;background-color:#f5f5f6;cursor:pointer}.c-btn:hover{background-color:#315efb;color:#fff!important}a.c-btn{text-decoration:none}.c-btn-mini{height:24px;width:48px;line-height:24px}.c-btn-primary,.c-btn-primary:visited{color:#fff!important}.c-btn-primary{background-color:#4e6ef2}.c-btn-primary:hover{background-color:#315efb}a:active{color:#f60}#wrapper{position:relative;min-height:100%}#head{padding-bottom:100px;text-align:center}#wrapper{min-width:1250px;height:100%;min-height:600px}#head{position:relative;padding-bottom:0;height:100%;min-height:600px}.s\_form\_wrapper{height:100%}.quickdelete-wrap{position:relative}.tools{position:absolute;right:-75px}.s-isindex-wrap{position:relative}#head\_wrapper.head\_wrapper{width:auto}#head\_wrapper{position:relative;height:40%;min-height:314px;max-height:510px;width:1000px;margin:0 auto}#head\_wrapper .s-p-top{height:60%;min-height:185px;max-height:310px;position:relative;z-index:0;text-align:center}#head\_wrapper input{outline:0;-webkit-appearance:none}#head\_wrapper .s\_btn\_wr,#head\_wrapper .s\_ipt\_wr{display:inline-block;zoom:1;background:0 0;vertical-align:top}#head\_wrapper .s\_ipt\_wr{position:relative;width:546px}#head\_wrapper .s\_btn\_wr{width:108px;height:44px;position:relative;z-index:2}#head\_wrapper .s\_ipt\_wr:hover #kw{border-color:#a7aab5}#head\_wrapper #kw{width:512px;height:16px;padding:12px 16px;font-size:16px;margin:0;vertical-align:top;outline:0;box-shadow:none;border-radius:10px 0 0 10px;border:2px solid #c4c7ce;background:#fff;color:#222;overflow:hidden;box-sizing:content-box}#head\_wrapper #kw:focus{border-color:#4e6ef2!important;opacity:1}#head\_wrapper .s\_form{width:654px;height:100%;margin:0 auto;text-align:left;z-index:100}#head\_wrapper .s\_btn{cursor:pointer;width:108px;height:44px;line-height:45px;padding:0;background:0 0;background-color:#4e6ef2;border-radius:0 10px 10px 0;font-size:17px;color:#fff;box-shadow:none;font-weight:400;border:none;outline:0}#head\_wrapper .s\_btn:hover{background-color:#4662d9}#head\_wrapper .s\_btn:active{background-color:#4662d9}#head\_wrapper .quickdelete-wrap{position:relative}#s\_top\_wrap{position:absolute;z-index:99;min-width:1000px;width:100%}.s-top-left{position:absolute;left:0;top:0;z-index:100;height:60px;padding-left:24px}.s-top-left .mnav{margin-right:31px;margin-top:19px;display:inline-block;position:relative}.s-top-left .mnav:hover .s-bri,.s-top-left a:hover{color:#315efb;text-decoration:none}.s-top-left .s-top-more-btn{padding-bottom:19px}.s-top-left .s-top-more-btn:hover .s-top-more{display:block}.s-top-right{position:absolute;right:0;top:0;z-index:100;height:60px;padding-right:24px}.s-top-right .s-top-right-text{margin-left:32px;margin-top:19px;display:inline-block;position:relative;vertical-align:top;cursor:pointer}.s-top-right .s-top-right-text:hover{color:#315efb}.s-top-right .s-top-login-btn{display:inline-block;margin-top:18px;margin-left:32px;font-size:13px}.s-top-right a:hover{text-decoration:none}#bottom\_layer{width:100%;position:fixed;z-index:302;bottom:0;left:0;height:39px;padding-top:1px;overflow:hidden;zoom:1;margin:0;line-height:39px;background:#fff}#bottom\_layer .lh{display:inline;margin-right:20px}#bottom\_layer .lh:last-child{margin-left:-2px;margin-right:0}#bottom\_layer .lh.activity{font-weight:700;text-decoration:underline}#bottom\_layer a{font-size:12px;text-decoration:none}#bottom\_layer .text-color{color:#bbb}#bottom\_layer a:hover{color:#222}#bottom\_layer .s-bottom-layer-content{text-align:center}
 
-[![Rust Logo](/static/images/rust-logo-blk.svg) ](/)
+[新闻](//news.baidu.com/)[hao123](//www.hao123.com/)[地图](//map.baidu.com/)[直播](//live.baidu.com/)[视频](//haokan.baidu.com/?sfrom=baidu-top)[贴吧](//tieba.baidu.com/)[学术](//xueshu.baidu.com/)
 
-* [Install](/tools/install)
-* [Learn](/learn)
-* [Playground](https://play.rust-lang.org/)
-* [Tools](/tools)
-* [Governance](/governance)
-* [Community](/community)
-* [Blog](https://blog.rust-lang.org/)
+[更多](//www.baidu.com/more/)
 
-Language English (en-US)Español (es)Français (fr)Italiano (it)日本語 (ja)Português (pt-BR)Русский (ru)Türkçe (tr)简体中文 (zh-CN)正體中文 (zh-TW)
+[登录](//www.baidu.com/bdorz/login.gif?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2f%3fbdorz_come%3d1)
 
-Rust
-==========
+<img src="//www.baidu.com/img/flexible/logo/pc/index.png" height="129" width="270" />
 
- A language empowering everyone   
- to build reliable and efficient software.
-----------
+[](//www.baidu.com/)
 
-[ Get Started ](/learn/get-started)
+[关于百度](//home.baidu.com/)
 
-[Version 1.57.0](https://blog.rust-lang.org/2021/12/02/Rust-1.57.0.html)
+[About Baidu](//ir.baidu.com/)
 
- Why Rust?
-----------
+[使用百度前必读](//www.baidu.com/duty)
 
-### Performance ###
+[帮助中心](//help.baidu.com/)
 
- Rust is blazingly fast and memory-efficient: with no runtime or
-garbage collector, it can power performance-critical services, run on
-embedded devices, and easily integrate with other languages.
+[京公网安备11000002000001号](//www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001)
 
-### Reliability ###
+[京ICP证030173号](//beian.miit.gov.cn/)
 
- Rust’s rich type system and ownership model guarantee memory-safety
-and thread-safety — enabling you to eliminate many classes of
-bugs at compile-time.
+互联网药品信息服务资格证书 (京)-经营性-2017-0020
 
-### Productivity ###
+[信息网络传播视听节目许可证 0110516](//www.baidu.com/licence/)
 
- Rust has great documentation, a friendly compiler with useful error
-messages, and top-notch tooling — an integrated package manager
-and build tool, smart multi-editor support with auto-completion and
-type inspections, an auto-formatter, and more.
-
- Build it in Rust
-----------
-
- In 2018, the Rust community decided to improve programming experience
-for a few distinct domains (see [the 2018
-roadmap](https://blog.rust-lang.org/2018/03/12/roadmap.html)). For these, you can find many high-quality crates and some
-awesome guides on how to get started.
-
-![terminal](/static/images/cli.svg)
-
-###  Command Line  ###
-
- Whip up a CLI tool quickly with Rust’s robust ecosystem.
-Rust helps you maintain your app with confidence and distribute it with ease.
-
-[Building Tools](/what/cli)
-
-![gear with puzzle piece elements](/static/images/webassembly.svg)
-
-###  WebAssembly  ###
-
- Use Rust to supercharge your JavaScript, one module at a time.
-Publish to npm, bundle with webpack, and you’re off to the races.
-
-[Writing Web Apps](/what/wasm)
-
-![a cloud with nodes](/static/images/networking.svg)
-
-###  Networking  ###
-
- Predictable performance. Tiny resource footprint. Rock-solid reliability.
-Rust is great for network services.
-
-[Working On Servers](/what/networking)
-
-![an embedded device chip](/static/images/embedded.svg)
-
-###  Embedded  ###
-
- Targeting low-resource devices?
-Need low-level control without giving up high-level conveniences?
-Rust has you covered.
-
-[Starting With Embedded](/what/embedded)
-
-Rust in production
-----------
-
- Hundreds of companies around the world are using Rust in production
-today for fast, low-resource, cross-platform solutions. Software you know
-and love, like [Firefox](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/),[Dropbox](https://blogs.dropbox.com/tech/2016/06/lossless-compression-with-brotli/),
-and [Cloudflare](https://blog.cloudflare.com/cloudflare-workers-as-a-serverless-rust-platform/),
-uses Rust. **From startups to large
-corporations, from embedded devices to scalable web services, Rust is a great fit.**
-
->  My biggest compliment to Rust is that it's boring, and this is an amazing compliment.
-
-– Chris Dickinson, Engineer at npm, Inc
-
-[![npm Logo](/static/images/user-logos/npm.svg) ](https://www.npmjs.com/)
-
----
-
-[![Yelp Logo](/static/images/user-logos/yelp.png)](https://www.youtube.com/watch?v=u6ZbF4apABk)
-
->  All the documentation, the tooling, the community is great - you have all the tools to succeed in writing Rust code.
-
-– Antonio Verardi, Infrastructure Engineer
-
-[Learn More](/production)
-
-Get involved
-----------
-
-### Read Rust ###
-
-We love documentation! Take a look at the books available online, as well as key blog posts and user guides.
-
-[Read the book](learn)
-
-### Watch Rust ###
-
-The Rust community has a dedicated YouTube channel collecting a huge range of presentations and
-tutorials.
-
-[Watch the Videos](https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA)
-
-### Contribute code ###
-
- Rust is truly a community effort, and we welcome contribution from hobbyists and production users, from
-newcomers and seasoned professionals. Come help us make the Rust experience even better!
-
-[ Read Contribution Guide ](https://rustc-dev-guide.rust-lang.org/getting-started.html)
-
-Thanks
-----------
-
- Rust would not exist without the generous contributions of time, work, and resources from individuals and companies. We are very grateful for the support!
-
-### Individuals ###
-
-Rust is a community project and is very thankful for the many community contributions it receives.
-
-[See individual contributors](https://thanks.rust-lang.org/)
-
-### Corporate sponsors ###
-
-The Rust project receives support from companies through the donation of infrastructure.
-
-[See sponsors](/sponsors)
-
-#### Get help! ####
-
-* [Documentation](/learn)
-* [Rust Forge (Contributor Documentation)](http://forge.rust-lang.org)
-* [Ask a Question on the Users Forum](https://users.rust-lang.org)
-* [Check Website Status](http://ping.rust-lang.org)
-
-Language English (en-US)Español (es)Français (fr)Italiano (it)日本語 (ja)Português (pt-BR)Русский (ru)Türkçe (tr)简体中文 (zh-CN)正體中文 (zh-TW)
-
-#### Terms and policies ####
-
-* [Code of Conduct](/policies/code-of-conduct)
-* [Licenses](/policies/licenses)
-* [Logo Policy and Media Guide](/policies/media-guide)
-* [Security Disclosures](/policies/security)
-* [Privacy Policy](https://foundation.rust-lang.org/policies/privacy-policy/)
-* [All Policies](/policies)
-
-#### Social ####
-
-[![twitter logo](/static/images/twitter.svg "Twitter")](https://twitter.com/rustlang) [![youtube logo](/static/images/youtube.svg "YouTube")](https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA) [![discord logo](/static/images/discord.svg "Discord")](https://discord.gg/rust-lang) [![github logo](/static/images/github.svg "GitHub")](https://github.com/rust-lang)
-
- Maintained by the Rust Team. See a bug?[File an issue!](https://github.com/rust-lang/www.rust-lang.org/issues/new/choose)
-
-Looking for the [previous website](https://prev.rust-lang.org)?
+var date=new Date,year=date.getFullYear();document.getElementById("year").innerText="©"+year+" Baidu "

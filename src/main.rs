@@ -1,7 +1,9 @@
 mod work;
 
 fn main() {
-    if let Result::Err(e) = work::do_work() {
-        println!("{}", e);
+    if let Option::Some(url) = std::env::args().last() {
+        if let Result::Err(e) = work::do_work(&url) {
+            println!("{}", e);
+        }
     }
 }
